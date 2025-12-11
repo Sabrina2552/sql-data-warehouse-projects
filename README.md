@@ -1,6 +1,8 @@
 # sql-data-warehouse-projects
 
-Welcome to the **Data Warehouse and Analytics Projects** repository!![RocketGIF](https://github.com/user-attachments/assets/022d4f83-ba78-4726-b8bd-a5f014ea0522)
+Welcome to the **Data Warehouse and Analytics Projects** repository!
+
+![FriendsPhoebeGIF](https://github.com/user-attachments/assets/7c6d594f-a97d-4012-bcd7-f76c5014378e)
 
 This project demonstrates a comprehensive data warehoursing and analytics solution, from building a data warehourse to generating actionable insights. Designed as a portfolio project, it
 highlights industry best practices in data engineering and analytics. 
